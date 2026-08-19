@@ -6,8 +6,7 @@ int test[MAXS];
 
 int main()
 {
-	test[0]=1;
-    test[MAXS-1]=1;
+	cout<<(1023&1023)<<"\n";
     return 0; 
 }
 
